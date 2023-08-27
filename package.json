@@ -1,0 +1,27 @@
+{
+  "name": "youtubeclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch-mix": "mix --production -- --watch --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pvanloon1983/youtubeclone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pvanloon1983/youtubeclone/issues"
+  },
+  "homepage": "https://github.com/Pvanloon1983/youtubeclone#readme",
+  "devDependencies": {
+    "laravel-mix": "^6.0.49",
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.66.1",
+    "sass-loader": "^12.1.0"
+  }
+}
